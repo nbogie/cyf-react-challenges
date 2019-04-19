@@ -17,7 +17,7 @@ You *will* need to know...
 * how to load a static json file
 * how to create a component in react
 * how to pass props
-* how to use an array to instantiate components
+* how to populate components from an array
 
 You DON'T need to know about: 
 * state
