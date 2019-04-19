@@ -42,6 +42,14 @@ Your app should read the information *locally* from a static JSON file.  Downloa
 
 Save it in your app in a new directory `src/data/`.  E.g. `src/data/sherlock.json`
 
+# Try to figure the rest out by yourself
+
+If you want a harder challenge, don't read the rest of this document but try to build the app by yourself.
+
+# Suggested approach 
+
+Here's one approach you might take to building this app.
+
 ## Task: Investigate the JSON
 
 Look at the JSON.
@@ -63,9 +71,9 @@ The tool can take a while to run, so continue with the next task while it's runn
 
 ## Task: Design your layout *on paper*
 
-Design your layout on paper.  Keep it very simple - this is a React challenge, not a CSS challenge!
+Design your layout on paper.  Keep it very simple - this is a React challenge, not a CSS challenge.
 
-Aim to have it look OK on a phone.
+Use a layout that will be ok on a phone (but don't do responsive design).
 
 Keep this drawing around for reference later.  
 
@@ -91,9 +99,16 @@ Make the selector that lists the episode numbers (E1S1) and titles, and allows y
 
 When you choose one from the selector, have the single shown episode update accordingly.
 
+## Advanced Challenge: Host your app
+
+Host your app and prove it works by viewing it on your phone!
+
+You can use Heroku to host, or github pages, or codesandbox.io, or glitch.com
+
 ## Advanced Challenge: download the json live from the API
 
 We have not covered how to do this in class yet.
 
 Change your React app so that instead of using static data in a local file, it gets the data from the API just before it shows the page.
 
+Add the ability to change which *show* is being presented.  E.g. change from "Game of Thrones" to "Star Trek".
