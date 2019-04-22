@@ -66,4 +66,4 @@ Add a live total of meals selected.
 
 Host your app and prove it works by viewing it on your phone!
 
-It is recommended that you use Netlify to host. (Some other options are Heroku, github pages, or codesandbox.io, or glitch.com, ...)
+It is recommended that you [use Netlify to host](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/). (Some other options are Heroku, github pages, or codesandbox.io, or glitch.com, ...)
