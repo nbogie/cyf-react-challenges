@@ -113,3 +113,7 @@ Here's the names of the notes in a C pentatonic scale, for example: `C4 D4 E4 G4
 ## Advanced Challenge: make it look good
 
 - Now is a good time to make it look good with CSS, colour, typography, images, and creativity. Or maybe you could ask someone to collaborate with you and do those aspects.
+
+## Further resources
+
+- https://musiclab.chromeexperiments.com/Oscillators/
