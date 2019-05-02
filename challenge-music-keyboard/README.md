@@ -44,8 +44,8 @@ You DO NOT need to know about:
 
 # Look at the first tones.js example
 
-- Look at the first example from the tones.js examples documentation. TODO: hyperlink, markup
-- Click the jsfiddle button to experiment with it. TODO: naming
+- Look at the first example from the [tones.js documentation](https://tonejs.github.io/).
+- Load and experiment with [this JSFiddle of that example](https://jsfiddle.net/enz0/f0b2u7ct/)
 - Try to understand the two lines of js code in the example.
 
 # Try to finish the rest by yourself
@@ -87,16 +87,25 @@ Now make a React component to represent your musical keyboard. It should generat
 
 ## Task: Get the audio working
 
-- Write code which uses tones.js to make sounds when buttons are pressed. Keep it very simple.
+- Add code which uses tones.js to make sounds when buttons are pressed. Keep it _very_ simple.
+
+If you need a hint, [use the first example in the docs, here.](https://tonejs.github.io/)
 
 ## Task: Host your app
 
-It is only a prototype, but it is now time to host your app!
+Host your app and prove it works by viewing it on your phone!
 
-Prove it works by viewing it on your phone! Share the URL with someone on Slack!
+We recommend you use Netlify. [Instructions are here](https://gist.github.com/nbogie/bf58a391fab6884f77a6adec66047181).
 
-It is recommended you use Netlify to host: TODO: link instructions.
-However, you could instead use something else: Heroku, or github pages, or codesandbox.io, or glitch.com, for example.
+(You can instead use Heroku to host, or github pages, or codesandbox.io, or glitch.com...)
+
+## End of basic challenge!
+
+Congratulations, you've finished the basics!
+
+- Send the URL of your hosted app to your team on Slack.
+- Make sure you can access it and play with it on a smartphone!
+- Celebrate!
 
 ## Advanced Challenge: make it change scale.
 
