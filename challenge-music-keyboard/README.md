@@ -4,6 +4,10 @@
 
 You must make a React app which presents a very simple musical keyboard made of buttons. When a button is pressed, the correct musical note sounds.
 
+### Try a live demo:
+
+[Try this live demo!](https://cyf-tones-react.netlify.com/)
+
 ### Example Screenshot
 
 ![Example Screenshot](./example-screenshots/example1.png)
