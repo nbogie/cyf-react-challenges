@@ -2,7 +2,13 @@
 
 ## Challenge Overview
 
-You must make a React app which assists you in taking an order for lunch for a large group, by providing multiple counters for different options (vegetarian, halal, vegan, etc).
+Make a React app which assists you in taking an order for lunch for a large group.
+
+It should provide multiple counters for different options (vegetarian, halal, vegan, etc).
+
+### Try a live demo
+
+[Try the live demo here](https://cyf-counters-react.netlify.com/).
 
 ### Example Screenshot
 
@@ -48,6 +54,18 @@ Make a single counter which has a title given to it and which increments its cou
 
 Reuse your component for each meal option you want to present.
 
+## Task: Host your app
+
+Host your app and prove it works by viewing it on your phone!
+
+## Task: Host your app
+
+Host your app and prove it works by viewing it on your phone!
+
+We recommend you use Netlify. [Instructions are here](https://gist.github.com/nbogie/bf58a391fab6884f77a6adec66047181).
+
+(You can instead use Heroku to host, or github pages, or codesandbox.io, or glitch.com...)
+
 ## Advanced challenges: total, and reset
 
 ![Example Screenshot](./images/counters-screenshot-advanced.png)
@@ -61,9 +79,3 @@ Add a reset button which will set all counts back to zero.
 ### Advanced Challenge: Add a total
 
 Add a live total of meals selected.
-
-## Advanced Challenge: Host your app
-
-Host your app and prove it works by viewing it on your phone!
-
-It is recommended that you [use Netlify to host](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/). (Some other options are Heroku, github pages, or codesandbox.io, or glitch.com, ...)
