@@ -6,9 +6,7 @@ Make a React app which presents a different randomly generated sentence each tim
 
 ### Try a live demo:
 
-[Try this live demo!](https://cyf-sengen-react.netlify.com/)
-
-TODO: decide on this or https://cyf-sengen-react.netlify.com/
+[Try this live demo!](https://cyf-sengen-simple.netlify.com/)
 
 ### Example Screenshot
 
