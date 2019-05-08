@@ -94,6 +94,7 @@ Host again.
 * Create a new repo on github
 * Add this github repo as a remote for your existing local image-carousel repo.
 * *You'll have to change the user and repo in the following to match your own*:
+
 ```git remote add origin https://github.com/user/repo.git```
 * ```git push -u origin master```
 
