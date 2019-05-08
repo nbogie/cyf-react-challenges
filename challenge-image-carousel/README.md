@@ -20,7 +20,9 @@ This is an intermediate challenge.
 
 # Level 1 Challenge
 
-Make forward and back buttons to move in that direction through a list of at least 4 images. 
+Make forward and back buttons to move _manually_ in that direction through a list of at least 4 images. 
+
+(e.g. When the user presses forward once, the display should move ONCE to the next image.)
 
 You can use any images.  
 
