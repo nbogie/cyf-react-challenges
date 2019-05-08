@@ -96,6 +96,7 @@ Host again.
 * *You'll have to change the user and repo in the following to match your own*:
 
 STOP!  You CANNOT simply copy-paste and run this command!  Read the above carefully.
+
 ```git remote add origin https://github.com/user/repo.git```
 
 ```git push -u origin master```
