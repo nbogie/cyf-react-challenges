@@ -10,9 +10,9 @@ Make a React app which allows the user to navigate a set of images (first manual
 
 ### Example Screenshot
 
-This screenshot includes functionality from an advanced task (auto-play).
+Level 1 challenge screenshot example.
 
-![Example Screenshot](./example-screenshots/example1.png)
+![Example Screenshot](./example-screenshots/example-level1.png)
 
 ## Difficulty Level
 
@@ -25,6 +25,10 @@ Make forward and back buttons to move in that direction through a list of images
 # Level 2 Challenge
 
 Make auto-forward and auto-back buttons to _automatically_ move in that direction through the list of images.
+
+Here's a screenshot example from a completed level 2 challenge.
+
+![Example Screenshot](./example-screenshots/example-level2.png)
 
 # Try to finish the rest by yourself
 
@@ -50,14 +54,19 @@ Use a layout that will be ok on a phone (but _don't_ spend time on responsive de
 
 Keep this drawing around for reference later.
 
-## Task: Convert your layout to JSX (HTML)
+## Task: Convert your layout to HTML
 
 Convert the drawing to HTML (on codepen or elsewhere) and check the buttons appear correctly.
+
 _DON'T_ add any CSS or extra markup to make it look good just now. That will only make it more difficult for you to think about your app during development.
 
 ## Task: Convert your HTML to JSX within your React app
 
 Now make components which will generate the planned HTML from the previous task.
+
+## Task: Make the buttons work
+
+Make your buttons work to navigate forwards and backwards, manually.
 
 ## Task: Host your app
 
@@ -67,6 +76,20 @@ We recommend you use Netlify. [Instructions are here](https://gist.github.com/nb
 
 (You can instead use Heroku to host, or github pages, or codesandbox.io, or glitch.com...)
 
+## Task: more buttons - automated slideshow
+
+Add the following buttons:
+
+- auto-forward
+- stop
+- auto-backwards
+
+These should allow automatic navigation through the images, say every 5 seconds.
+
+## Task: host again.
+
+Host again.
+
 ## End of basic challenge!
 
 Congratulations, you've finished the basics!
@@ -74,6 +97,10 @@ Congratulations, you've finished the basics!
 - Send the URL of your hosted app to your team on Slack.
 - Make sure you can access it and play with it on a smartphone!
 - Celebrate!
+
+## Optional: Add UI for delay time
+
+Add UI so that the user can specify how long to wait between images.
 
 ## Advanced Challenge: make it look good
 
