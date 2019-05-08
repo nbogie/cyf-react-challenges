@@ -8,9 +8,13 @@ Make a React app which presents a different randomly generated sentence each tim
 
 [Try this live demo!](https://cyf-sengen-simple.netlify.com/)
 
+Make sure you understand what's happening at a conceptual level.  Each word-slot in the sentence template is picking a word randomly from an appropriate list.  E.g. from a list of nouns.
+
 ### Example Screenshot
 
 ![Example Screenshot](./example-screenshots/example1.png)
+
+I have added a "regenerate" button, but alternatively, the user can simply reload the page for that.
 
 ## What you need to know before starting:
 
@@ -67,6 +71,12 @@ _DON'T_ add any CSS or extra markup to make it look good just now. That will onl
 
 Now make a component to represent your sentence. It should generate the HTML. You can do this all first within your `App.js`, or you can build a React Component.
 
+## Task: Have words picked at random from lists
+
+Try to write the javascript yourself to pick one word from a list of words, at random.
+
+If you have a lot of trouble, [here is a function you can use](https://gist.github.com/nbogie/05332f6c8834f6b57a08d8ea1edd911b)
+
 ## Task: Host your app
 
 Host your app and prove it works by viewing it on your phone!
@@ -86,5 +96,11 @@ Congratulations, you've finished the basics!
 ## Advanced Challenge: make it look good
 
 - Now is a good time to make it look good with CSS, colour, typography, images, and creativity. Maybe you could ask someone to collaborate with you on those aspects.
+
+## Advanced Challenges
+
+* Allow any word to be clicked, to change *only* that word.
+* Allow "like" and saving of favourite sentences
+* Add different template sentences
 
 ## Further resources
