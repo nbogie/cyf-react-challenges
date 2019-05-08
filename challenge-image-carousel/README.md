@@ -90,6 +90,13 @@ These should allow automatic navigation through the images, say every 5 seconds.
 
 Host again.
 
+## Create a repo on github for your code
+* Create a new repo on github
+* Add this github repo as a remote for your existing local image-carousel repo.
+* *You'll have to change the user and repo in the following to match your own*:
+```git remote add origin https://github.com/user/repo.git```
+* ```git push -u origin master```
+
 ## End of basic challenge!
 
 Congratulations, you've finished the basics!
