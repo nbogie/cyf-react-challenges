@@ -80,11 +80,17 @@ Use a layout that will be ok on a phone (but don't do responsive design).
 
 Keep this drawing around for reference later.
 
-## Task: Convert your layout to JSX (HTML)
+## Task: Convert your layout to HTML (really, JSX)
 
 Make a prototype which just shows detail from one or two example episodes. _Don't_ worry about the JSON yet.
 
-You can do this all within your `App.js`, or you can immediately build some React Component(s).
+If you're still new to React, you can do this all all within your `App.js`, with no other components. 
+
+## Split your HTML across separate React components
+
+If you haven't already, now is a good time to "decompose" your HTML into separate sections.
+
+Go back to your paper layout and circle and name each section that will be a separate component.
 
 ## Task: Read in the JSON
 
