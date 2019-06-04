@@ -98,7 +98,9 @@ Make your app load the JSON that you previously saved in a local file. Extract t
 
 ## Task: Make the whole list of episodes
 
-Loop over the JSON to make a whole list of `Episode` components. If your app crashes at this point, _DO NOT_ edit the JSON - instead, debug your code.
+Loop over the JSON to make a whole list of `Episode` components. 
+
+Note: If your app crashes at this point, _DO NOT_ edit the JSON - instead, look at the error messages and fix your code to prevent those errors from happening.
 
 ## Task: Host your app
 
@@ -115,6 +117,14 @@ Congratulations, you've finished the basics!
 - Send the URL of your hosted app to your team on Slack.
 - Make sure you can access the site on a smartphone.
 - Celebrate!
+
+
+## Optional Challenge: store your code on github
+
+Put your code in a github repo.  This way:
+* employers can see it, 
+* mentors can code-review it
+* you'll have a backup!
 
 ## Advanced Challenge: make an episode selector
 
