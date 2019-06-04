@@ -126,6 +126,8 @@ Put your code in a github repo.  This way:
 * mentors can code-review it
 * you'll have a backup!
 
+Instructions on how to do this are [here](./github-instructions.md)
+
 ## Advanced Challenge: make an episode selector
 
 ### Example screenshot with episode selector
