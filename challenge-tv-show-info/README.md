@@ -159,3 +159,9 @@ Add the ability for the user to pick which _show_ is being presented. e.g. Allow
 Note: This will require use of fetch and a basic use of promises.
 
 Make sure you have a backup of your code for your _working_ version, before you attempt this advanced version, so you always have something to show.
+
+## Extra CSS Challenge
+
+This is a React challenge, but if you really want more practice, how about implementing this season-selector layout, suggested by Mussie (thanks Mussie!)
+
+![Example Screenshot](./season-layout-by-mussie.png)
