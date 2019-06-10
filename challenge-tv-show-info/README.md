@@ -164,4 +164,4 @@ Make sure you have a backup of your code for your _working_ version, before you 
 
 This is a React challenge, but if you really want more practice, how about implementing this season-selector layout, suggested by Mussie (thanks Mussie!)
 
-![Example Screenshot](./season-layout-by-mussie.png)
+![Example Screenshot](./season-layout-by-mussie.jpg)
