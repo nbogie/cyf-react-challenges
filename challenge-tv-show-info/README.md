@@ -160,8 +160,8 @@ Note: This will require use of fetch and a basic use of promises.
 
 Make sure you have a backup of your code for your _working_ version, before you attempt this advanced version, so you always have something to show.
 
-## Extra CSS Challenge
+## Student-suggested: Extra CSS Challenge
 
-This is a React challenge, but if you really want more practice, how about implementing this season-selector layout, suggested by Mussie (thanks Mussie!)
+This is a React challenge, but if you really want more practice, how about implementing this season-selector layout, suggested by Mussie (thanks Mussie!)  There's interesting JS and React work to be done there, too!
 
 ![Example Screenshot](./season-layout-by-mussie.jpg)
