@@ -1,5 +1,7 @@
 # Challenge: TV Show Episode List
 
+Note: This is a challenge, **not** a tutorial.  It is a chance to put into practice what you've studied.
+
 ## Challenge Overview
 
 You must make a React app which shows all of the episode summaries of a tv show such as "Game Of Thrones", in one long list.
