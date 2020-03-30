@@ -2,9 +2,9 @@
 
 **pre-coding - looking at the data**
 * looking at one episode of the JSON, 
-* identifying and extracting key elements of the data:  episode name, img url, summary
+* identifying and extracting key elements of the data:  episode name, img url, summary.  "What properties will you need from each episode?"  What are their names?  Are they nested within other properties?
 
-**pure JS**
+**pure JS coding**
 * extracting key elements of the data from ONE episode JSON (episode name, summary, img url, etc)
   * presenting in plain text on the (node) console
 * coding necessary manipulations of those key elements, presenting to console
@@ -12,20 +12,36 @@
   * e.g. making a fixed-width episode tag like `S01E03` from `{..., seasonNumber: 1, episode: 3 }`
   * e.g. optional: clean-up of p tags in summary.
   * (if teaching testing: writing tests for these examples)
+
+**pre-coding - looking again at the data**
+* Does it contain an array or an object, at the top level?
+  * If you think it contains an object at top level, what are the properties of the object?
+  * If you think it contains an array at top level, how many elements are there in that array?
+
+**back to pure JS coding**
 * looping over the array of episodes, printing to console
 * filtering the episode list by a string's occurence in episode summaries
   * (based of necessity on a hard-coded value)
 * finding and reporting ONE episode based on a find for season and episode numbers
 
-* **on paper**: page layout design (use a whiteboard app (or marvel, etc?) if remote)
+**on paper**
+* **page layout design** (use a whiteboard app (or marvel, etc?) if remote)
 
-* html + vanilla JS + DOM with **static** JSON file - **ONE episode**
-* html + vanilla JS + DOM with **static** JSON file - **LOOP through all episodes**
-* html + vanilla JS + DOM with **fetch of the JSON from API**
-* html + vanilla JS + DOM with input to array.filter the episodes (based on string occurrence in summary)
-* html + vanilla JS + DOM with episode selector drop-down ("s01e08: The Pointy End")
-* season selector
-* responsive design
+**html + vanilla JS coding**
+
+* **static** JSON file - **ONE episode**
+* **static** JSON file - **LOOP through all episodes**
+* **fetch of the JSON from API**
+
+** using input fields - no change to API use**
+* add a search input and array.filter the episodes (based on string occurrence in summary)
+* episode selector drop-down ("s01e08: The Pointy End") (with scroll/jump to place in list) 
+
+**responsive design**
+
+**more advanced**
+* single-episode version: fetching ONE resource, based on the selector
+* season selector, using multiple resources from the API
 
 # incremental steps for the react version
 
