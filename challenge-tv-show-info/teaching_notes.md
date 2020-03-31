@@ -12,7 +12,12 @@
   * e.g. making a fixed-width episode tag like `S01E03` from `{..., seasonNumber: 1, episode: 3 }`
   * e.g. optional: clean-up of p tags in summary.
   * (if teaching testing: writing tests for these examples)
-
+* (optional) code some manipulations of the JSON: [Here are some in this repl: TVEpisodesStart](https://repl.it/@NeillBogie/TVEpisodesStart)
+  * getNamesOfFirstEpisodes(epis)
+  * getNumberedEpisode(epis, sNum, eNum)
+  * getSeasonLengths(epis) //(advanced)
+  *...
+  
 **pre-coding - looking again at the data**
 * Does it contain an array or an object, at the top level?
   * If you think it contains an object at top level, what are the properties of the object?
