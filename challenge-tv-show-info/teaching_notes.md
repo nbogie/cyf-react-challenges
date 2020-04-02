@@ -52,7 +52,9 @@
 
 * Don't have tens of resources being loaded that overwhelm exploration (e.g. in network tab)
 * Don't have the project source consist of tens or hundreds of files.  index.html, style.css, script.js, and maybe an image.
-
+* Don't give the project an expiry date as a portfolio item.  Use a long-lived API with data which will likely continue (e.g. based on visualisation of PRs that will be deleted).  
+* Consider making permanently available the student's prototype version with static data as portfolio item when they want to  do crucial demos without worrying about the API being available, etc.
+* Don't use APIs that are going to rate-limit the students through the likely repeated calling during development.
 
 # incremental steps for the react version
 
