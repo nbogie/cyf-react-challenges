@@ -55,6 +55,8 @@
 * Don't give the project an expiry date as a portfolio item.  Use a long-lived API with data which will likely continue (e.g. based on visualisation of PRs that will be deleted).  
 * Consider making permanently available the student's prototype version with static data as portfolio item when they want to  do crucial demos without worrying about the API being available, etc.
 * Don't use APIs that are going to rate-limit the students through the likely repeated calling during development.
+* don't try to describe the challenge in text where a screenshot would do
+* don't give a working live version for students to play with without obfuscating the sources - some will copy-paste.  Instead, use screenshots (and a video of any interaction).
 
 # incremental steps for the react version
 
