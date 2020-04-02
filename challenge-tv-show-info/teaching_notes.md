@@ -48,6 +48,14 @@
 * single-episode version: fetching ONE resource, based on the selector
 * season selector, using multiple resources from the API
 
+# things to avoid
+
+* Don't have tens of resources being loaded that overwhelm exploration (e.g. in network tab)
+* Don't have the project source consist of tens or hundreds of files.  index.html, style.css, script.js, and maybe an image.
+
+
 # incremental steps for the react version
 
 TODO, but most of the above still applies.
+
+
