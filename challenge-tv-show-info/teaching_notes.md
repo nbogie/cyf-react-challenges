@@ -41,6 +41,9 @@
 ** using input fields - no change to API use**
 * add a search input and array.filter the episodes (based on string occurrence in summary)
 * episode selector drop-down ("s01e08: The Pointy End") (with scroll/jump to place in list) 
+* defensive coding: 
+  * defend against null `episode.image` (e.g. The Simpsons)
+  * defend against null `episode.summary` (e.g. The Voice)
 
 **responsive design**
 
