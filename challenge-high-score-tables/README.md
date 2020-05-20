@@ -40,4 +40,10 @@ For this challenge you should make AT LEAST:
 The data is available in the file [./scores.js](./scores.js).  
 You can copy this array of data into your App.js or you can import it.
 
+
+# Bonus:
+
+* Present the High Score Tables sorted alphabetically by country name
+* Within one table, sort the player score lines by score, numerically, descending.  (This is NOT pictured in the example)
+
 ## Further resources
