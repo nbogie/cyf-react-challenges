@@ -45,5 +45,6 @@ You can copy this array of data into your App.js or you can import it.
 
 * Present the High Score Tables sorted alphabetically by country name
 * Within one table, sort the player score lines by score, numerically, descending.  (This is NOT pictured in the example)
+* add some old-skool icons or animations
 
 ## Further resources
