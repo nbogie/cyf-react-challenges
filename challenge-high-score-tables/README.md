@@ -4,6 +4,10 @@
 
 Make a React app which lists some high score tables
 
+## Difficulty Level
+
+This is a beginner challenge.
+
 ## Pre-reqs
 
 * react `props`
@@ -15,9 +19,6 @@ Level 1 challenge screenshot example.
 
 ![Example Screenshot](./example-screenshots/react-high-score-tables-example-layout.png)
 
-## Difficulty Level
-
-This is a beginner challenge.
 
 # Level 1 Challenge
 
