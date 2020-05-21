@@ -1,22 +1,25 @@
- let allCountryScores = [
+let allCountryScores = [
     {
       name: "Ethiopia", 
-      scores:  [ {n: "Hanif", s: 999999999}, {n: "lucy", s: "4134234"}, {n: "DWH", s: 9999},  {n: "Sub", s: 9990} ]
+      scores:  [ {n: "Sub", s: 9990}, {n: "lucy", s: "4134234"}, {n: "DWH", s: 9999},  {n: "Hanif", s: 999999999} ]
     },     
     {
       name: "Scotland", 
-      scores: [  {n: "Neill", s: 999999},{n: "groundkeeper willie", s: 4000}, {n: "braveheart", s: -200}]
+      scores: [  {n: "groundkeeper willie", s: 4000}, {n: "Neill", s: 999999}, {n: "braveheart", s: -200}]
+    },{
+      name: "England", 
+      scores: [ {n: "Jonny", s: 202020}, {n: "Chris", s: 202021}]
     },{
       name: "Brazil", 
       scores: [ {n: "Mozart", s: 999}]
     },
     {
       name: "Colombia", 
-      scores: [ {n: "Melanie", s: "99999999"}, {n: "Maria", s: 6000}, {n: "Ali", s: 5000}]
+      scores: [ {n: "Maria", s: 6000}, {n: "Melanie", s: "99999999"}, {n: "Ali", s: 5000}]
     }, 
     {
       name: "Turkey", 
-      scores: [ {n: "mahmut", s: 1000  }, {n: "morat", s: 999  }, {n: "selim", s: 900  }, ]
+      scores: [ {n: "selim", s: 900  }, {n: "mahmut", s: 1000  }, {n: "morat", s: 999  } ]
     },
     {
       name: "Iran", 
@@ -24,7 +27,7 @@
     },
     {
       name: "Bangladesh", 
-      scores: [ {n: "rayhan", s: 18238123}, {n: "ali", s: 5400000}, {n: "rahman", s: 700200} , , {n: "Chris", s: 10} ]
+      scores: [ {n: "rahman", s: 700200}, {n: "rayhan", s: 18238123}, {n: "ali", s: 5400000} ]
     },
   ];
   
