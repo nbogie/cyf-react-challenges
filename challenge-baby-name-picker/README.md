@@ -53,6 +53,8 @@ It should display boys' and girls' names differently.
 
 The names should be displayed in alphabetical order, ascending.
 
+Your project should be on GitHub and hosted with correct names (see Hosting, above).
+
 ### Example Screenshot
 
 Note only the list of names is important here. The other elements in the screenshot can be ignored.
