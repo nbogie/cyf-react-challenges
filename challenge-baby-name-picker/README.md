@@ -1,5 +1,7 @@
 # Challenge: "Baby Name Picker (React)"
 
+![Example Screenshot from the finished challenge](./example-screenshots/level-3.png)
+
 ## Challenge Overview
 
 Make a React app which shows some baby names and lets you pick your favourites. The names data is provided for you.
@@ -53,9 +55,9 @@ The names should be displayed in alphabetical order, ascending.
 
 ### Example Screenshot
 
-Level 1 challenge screenshot example.
+Level 1 challenge screenshot example. Only the list of names is important here.
 
-![Level 1 Example Screenshot]("./example-screenshots/level-1-list.png")
+![Level 1 Example Screenshot](./example-screenshots/level-1.png)
 
 # Level 2 challenge
 
@@ -71,7 +73,7 @@ When the search bar is clear, all names should be shown.
 
 Level 2 Example Screenshot
 
-![Level 2 Example Screenshot]("./example-screenshots/level-2.png")
+![Level 2 Example Screenshot](./example-screenshots/level-2.png)
 
 # Level 3 challenge
 
@@ -85,7 +87,7 @@ When the user clicks a name from the _favourites_ list, it should be moved back 
 
 Level 3 Example Screenshot
 
-![Level 3 Example Screenshot]("./example-screenshots/level-3.png")
+![Level 3 Example Screenshot](./example-screenshots/level-3.png)
 
 # Level 4 challenge
 
@@ -105,10 +107,10 @@ If there is a search term in effect, your app should apply this name gender filt
 
 Level 4 Example Screenshot
 
-![Level 4 Example Screenshot]("./example-screenshots/level-4.png")
+![Level 4 Example Screenshot](./example-screenshots/level-4.png)
 
 ## Further resources
 
 # Credits
 
-This application idea, including the look, was taken from [Simon Vrachliotis'](https://simonswiss.com/) app.
+This application idea, including the look, was taken from [Simon Vrachliotis'](https://simonswiss.com/) app, found via [react.rocks](https://react.rocks/example/Baby_name_inspiration).
