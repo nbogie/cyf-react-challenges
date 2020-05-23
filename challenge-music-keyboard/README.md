@@ -94,9 +94,10 @@ If you need a hint, [use the first example in the docs, here.](https://tonejs.gi
 
 Host your app and prove it works by viewing it on your phone!
 
-We recommend you use Netlify. [Instructions are here](https://gist.github.com/nbogie/bf58a391fab6884f77a6adec66047181).
+We recommend you use Netlify:
 
-(You can instead use Heroku to host, or github pages, or codesandbox.io, or glitch.com...)
+Site name: `cyf-GITHUBUSERNAME-tones`
+Repo name: `tones-react`
 
 ## End of basic challenge!
 
@@ -117,6 +118,10 @@ Here's the names of the notes in a C pentatonic scale, for example: `C4 D4 E4 G4
 ## Advanced Challenge: support multiple scales
 
 - Add to the interface so that the user can choose what scale they want.
+
+## Advanced Challenge: add controls to change the sound
+
+- Add to the interface so that the user can modify the sound synthesis parameters.
 
 ## Advanced Challenge: make it look good
 
