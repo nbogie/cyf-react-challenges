@@ -10,7 +10,7 @@ You must make a React app which presents a very simple musical keyboard made of 
 
 ### Example Screenshot
 
-![Example Screenshot](./example-screenshots/example1.png)
+![Example Screenshot](./example-screenshots/example2.png)
 
 ## What you need to know before starting:
 
@@ -22,17 +22,12 @@ You _will_ need to know...
 - how to create a component in React
 - how to pass props
 - how to populate components from an array
+- how to handle events (button clicks)
 
 In addition, you'll learn...
 
 - How to install a library (in this case, tones.js)
 - How to make synthesised sound with the tones.js library. This is one of many ways to make sound in a web app.
-
-You DO NOT need to know about:
-
-- state
-- fetching JSON from an API
-- promises
 
 # Task: Install the "tones.js" library
 
