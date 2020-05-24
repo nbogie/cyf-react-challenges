@@ -69,5 +69,6 @@ so...
 - Within one table, sort the player score lines by score, numerically, descending. (This is NOT pictured in the example)
 - add some old-skool videogame icons or animations
 - add a _single_ button which toggles the sort order of every scores table between ascending and descending by scores.
+- add your own country and scores!
 
 ## Further resources
