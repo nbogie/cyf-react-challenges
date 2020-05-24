@@ -8,23 +8,32 @@ Make a React app which shows some baby names and lets you pick your favourites. 
 
 ## Difficulty Level
 
-This is a beginner challenge, suitable from students who have completed at least week 2 of the CYF React module.
+This is a beginner challenge.  Level one can be completed by any student who has done week 1 of the CYF React module.
 
-(Level one can be completed by any student who has started the React module.)
+The later levels are suitable from students who have completed at least week 2 of the CYF React module.
 
 ## Pre-requisites - what do I need to know to finish this challenge?
 
+(Level 1)
+
 - React `props`
-- The `array.map` method as used in React JSX
+- The `array.map` method and its use in React JSX
+
+(Later levels)
+
 - Event handlers: onClick for buttons
 - Event handlers: onChange for input fields
 - The `useState` hook
 
 ## Getting Started
 
-Don't clone this repo.
+**Don't** clone this repo.
 
-Make your own React app using create-react-app.
+Make your own React app using `create-react-app`.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+
+Copy across the names file (or its contents) from this repo to your app, and then import from that file.
+
+Write a plain HTML prototype (e.g. on codepen).  THEN, once you know the HTML you're attempting to create, work on the React version!  This is not mandatory but it is recommended.
 
 ### The data:
 
@@ -32,7 +41,7 @@ The data is available in the file [./babyNamesData.json](./babyNamesData.json).
 
 Copy across this file to your src/ directory, and then import it.
 
-## Hosting:
+## GitHub & Hosting:
 
 Add your project in github and host it on Netlify.
 
@@ -47,29 +56,29 @@ so...
 
 # Level 1 Challenge
 
-Write a react app which lists baby names from the given file.
+* Write a react app which lists baby names from the given file.
 
-It should display boys' and girls' names differently.
+* It should display boys' and girls' names differently - your choice*
 
-The names should be displayed in alphabetical order, ascending.
+* The names should be displayed in alphabetical order, ascending.
 
-Your project should be on GitHub and hosted with correct names (see Hosting, above).
+* Your project should be on GitHub and Netlify with correct names (see Hosting, above).
+
+(*) Please, please feel free to break from the the "blue-for-boys/pink-for-girls" stereotyping and style it differently.  The best creative solution will be included in this challenge document for subsequent cohorts to admire.
 
 ### Example Screenshot
-
-Note only the list of names is important here. The other elements in the screenshot can be ignored.
 
 ![Level 1 Example Screenshot](./example-screenshots/level-1.png)
 
 # Level 2 challenge
 
-Add a search bar.
+* Add a search bar.
 
-When someone types into it, your app should update the displayed list of baby names to only show matches.
+* When someone types into it, your app should update the displayed list of baby names to only show matches.
 
-Matches should be case-insensitive.
+* Matches should be case-insensitive.
 
-When the search bar is clear, all names should be shown.
+* When the search bar is clear, all names should be shown.
 
 ### Example Screenshot
 
@@ -77,11 +86,12 @@ When the search bar is clear, all names should be shown.
 
 # Level 3 challenge
 
-Add "favourites".
+* Add "favourites".
 
-When the user clicks a name from the main list, it should be moved to a "favourites" list, displayed separately.
+* When the user clicks a name from the main list, it should be moved to a "favourites" list, displayed separately.
+It should disappear from the main list!
 
-When the user clicks a name from the _favourites_ list, it should be moved back to the main list.
+* When the user clicks a name from the _favourites_ list, it should be moved back to the main list.  It should disappear from the favourites list!
 
 ### Example Screenshot
 
