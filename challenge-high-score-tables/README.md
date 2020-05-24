@@ -25,11 +25,13 @@ Write a react app which displays high score tables.
 
 Each country should have its own High Score table displayed.
 
+It should be hosted on Netlify (see "Hosting" below).
+
 ### Getting Started
 
 Don't clone this repo.
 
-Make your own React app using create-react-app.
+Make your own React app using create-react-app.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
 
 Copy across the score file (or the score file's contents) to your app, and then import from that file.
 
@@ -47,13 +49,6 @@ For this challenge you should make AT LEAST:
 The data is available in the file [./scores.js](./scores.js).  
 You can copy this array of data into your App.js or you can import it.
 
-# Bonus:
-
-- Present the High Score Tables sorted alphabetically by country name
-- Within one table, sort the player score lines by score, numerically, descending. (This is NOT pictured in the example)
-- add some old-skool videogame icons or animations
-- add a _single_ button which toggles the sort order of every scores table between ascending and descending by scores.
-
 ## Hosting:
 
 Add your project in github and host it on Netlify.
@@ -66,5 +61,13 @@ The netlify site suffix should be `-scores`
 so...
 
 `cyf-YOURGITHUBUSERNAME-scores`
+
+
+# Bonus:
+
+- Present the High Score Tables sorted alphabetically by country name
+- Within one table, sort the player score lines by score, numerically, descending. (This is NOT pictured in the example)
+- add some old-skool videogame icons or animations
+- add a _single_ button which toggles the sort order of every scores table between ascending and descending by scores.
 
 ## Further resources
