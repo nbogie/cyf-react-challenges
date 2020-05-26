@@ -6,6 +6,8 @@ Note: This is a challenge, **not** a tutorial.  It is a chance to put into pract
 
 You must make a React app which shows all of the episode summaries of a tv show such as "Game Of Thrones", in one long list.
 
+(If you are interested in doing this challenge in vanilla JS see end of this document.)
+
 ### Example Screenshot
 
 ![Example Screenshot](./example-level-1.png)
@@ -168,3 +170,7 @@ This is a React challenge, but if you really want more practice, how about imple
 
 
 ![Season Selector Layout](./season-selector-mockup.png)
+
+## Vanilla JS version of this challenge
+
+There is now [a more detailed version of this challenge in the CYF syllabus](https://github.com/CodeYourFuture/syllabus/tree/master/js-core-3/tv-show-dom-project).  That version is for vanilla JavaScript, not React. You might find it useful even if you are working in React.
