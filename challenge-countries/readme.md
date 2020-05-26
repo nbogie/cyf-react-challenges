@@ -16,6 +16,7 @@ Level 1 - React week 1:
 
 - React `props`
 - The `array.map` method and its use in React JSX
+- Lots of CSS (flexbox recommended)
 
 Later levels - React week 2:
 
