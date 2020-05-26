@@ -69,10 +69,6 @@ Add your project in github and host it on Netlify.
 * Ignore the requirement to allow "clicking into" specific countries.  Just show the main list.
 * Publish your project on GitHub and Netlify with the correct names (see Hosting, above).
 
-### Example Screenshot
-
-![Level 1 Example Screenshot](./example-screenshots/level-1.png)
-
 # Level 2 challenge
 
 * Add the search box
@@ -80,10 +76,6 @@ Add your project in github and host it on Netlify.
   * Accept matches of the string in the country name **AND** matches in the capital's name
 * Matches should be case-insensitive.
 * When the search bar is clear, all countries should be shown.
-
-### Example Screenshot
-
-![Level 2 Example Screenshot](./example-screenshots/level-2.png)
 
 # Level 3 challenge
 
@@ -93,18 +85,11 @@ Add your project in github and host it on Netlify.
     * match the search box term (if there is one)
 * When a region is not selected (i.e. the menu is set to "Filter by region") then countries should NOT be filtered by region and only the search rules should apply.
 
-### Example Screenshot
-
-![Level 3 Example Screenshot](./example-screenshots/level-3.png)
-
 # Level 4 challenge
 
 * Allow users to click on a country and view that country's full details, as shown in the frontendmentor challenge.
 * Make sure to allow clicking on bordering countries to visit these neighbours
 * Don't forget the "back" button
-
-### Example Screenshot
-![Level 4 Example Screenshot](./example-screenshots/level-4.png)
 
 # Level 5 challenge
 * Implement the colour scheme picker
