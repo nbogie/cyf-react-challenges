@@ -1,12 +1,12 @@
 # Challenge: "Frontend Mentor's REST Countries API with color theme switcher (React)"
 
-This excellent challenge lives at [frontendmentor.io](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+This excellent challenge was created by, and lives at [frontendmentor.io](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
-In this document we will simply break down that challenge into approachable levels, and give extra tips for getting started.
+In *this* document we will simply break down that challenge into approachable levels, and give extra tips for getting started.
 
 ## Challenge Overview
 
-Your challenge is to make a React app integrate with the REST Countries API to fetch country data and display it like in the designs provided by frontendmentor.io.
+Your *eventual* challenge is to make a React app integrate with the REST Countries API to fetch country data and display it like in the designs provided by [frontendmentor.io]((https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
 However, in the earlier levels you will be given a file containing with the downloaded countries data, so that you do not have to fetch it from the API.
 
@@ -22,7 +22,8 @@ Later levels - React week 2:
 
 - Event handlers: `onClick` for buttons
 - Event handlers: `onChange` for input fields and `select` elements
-- The `useState` hook
+- `useState`: The React State hook 
+- `useEffect`: The React Effect hook, and how to use it with `fetch`.
 
 ## Getting Started
 
