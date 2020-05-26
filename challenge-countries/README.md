@@ -6,7 +6,7 @@ In *this* document we will simply break down that challenge into approachable le
 
 ## Challenge Overview
 
-Your *eventual* challenge is to make a React app integrate with the REST Countries API to fetch country data and display it like in the designs provided by [frontendmentor.io]((https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+Your *eventual* challenge is to make a React app integrate with the REST Countries API to fetch country data and display it like in the designs provided by [frontendmentor.io](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
 However, in the earlier levels you will be given a file containing with the downloaded countries data, so that you do not have to fetch it from the API.
 
