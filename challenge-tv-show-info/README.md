@@ -6,7 +6,7 @@ Note: This is a challenge, **not** a tutorial.  It is a chance to put into pract
 
 You must make a React app which shows all of the episode summaries of a tv show such as "Game Of Thrones", in one long list.
 
-If you are interested in doing this challenge in vanilla JS see end of this document.
+(If you are interested in doing this challenge in vanilla JS see end of this document.)
 
 ### Example Screenshot
 
