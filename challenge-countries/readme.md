@@ -27,15 +27,15 @@ Later levels - React week 2:
 ## Getting Started
 
 * **Don't** clone this repo.
-* Make your own React app using `create-react-app`.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
 * Read Level 1 below, but don't start
-* Carefully read the brief in the frontend mentor challenge.
+* Carefully read [the brief in the frontend mentor challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 * Sign in to frontendmentor.io and download and expand the starter pack
 * Read the instructions and guidance in that pack.
-* Read Level 1 below, again!
-* Copy the [./countriesAll.json](./countriesAll.json) data file into your `src/` directory, and then import it into your React app.
-* Put your project on GitHub
-* Host it on Netlify (see below for naming)
+* Read Level 1 below, again!  It tells you what you can ignore!
+* Make your own React app using `create-react-app`.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+* Copy the [./countriesAll.json](./countriesAll.json) data file into your `src/` directory, and then import it.
+* Put your project on GitHub (see below)
+* Host it on Netlify (see below)
 * Write a plain HTML prototype (e.g. on codepen) with some copy-pasted country "cards".  THEN, once you are confident about the HTML you need to create...
 * Start to code the React app!
 
@@ -61,11 +61,12 @@ Add your project in github and host it on Netlify.
 
 * Write a react app to present the list of countries as shown in the frontend mentor challenge.
 * Get as close as possible to the presentation.
+* Format the population correctly
 * Ignore the search box
 * Ignore the region select
 * Ignore the colour theme selector
-* Ignore the requirement to allow clicking to see one specific country.
-* Your project should be on GitHub and Netlify with correct names (see Hosting, above).
+* Ignore the requirement to allow "clicking into" specific countries.  Just show the main list.
+* Publish your project on GitHub and Netlify with the correct names (see Hosting, above).
 
 ### Example Screenshot
 
@@ -75,7 +76,7 @@ Add your project in github and host it on Netlify.
 
 * Add the search box
 * When the search box has text in it, your app should update the displayed list of countries to only show matches
-  * Accept matches of the string in the country name AND matches in the capital
+  * Accept matches of the string in the country name **AND** matches in the capital's name
 * Matches should be case-insensitive.
 * When the search bar is clear, all countries should be shown.
 
