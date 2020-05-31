@@ -69,11 +69,11 @@ so...
 - Within each individual table, show the highest scores first - i.e. sort the scores numerically, descending.
 
 # Level 4 - advanced (needs content from React week 2)
-- add a _single_ button at the top of the page which toggles the sort order of every high-score-table between ascending and descending by scores.  This will require some study about event handlers and the use of a "State hook".
+- Add a _single_ button at the top of the page which toggles the sort order of every high-score-table between ascending and descending by scores.  This will require some study about event handlers and the use of a "State hook".
 
 # Level 5 - advanced
 
-- add a "world-wide" table which shows the high scores from EVERYONE, regardless of country.
+- Add a "world-wide" table, shown first, which shows the sorted high scores from EVERYONE, regardless of country.
 
 # Bonus
 - Add your own country and scores!
