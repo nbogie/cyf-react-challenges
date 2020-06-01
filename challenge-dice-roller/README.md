@@ -48,7 +48,7 @@ so...
 
 - It should have a single component called `DieRoller` or similar. (A "die" is the english singular term for dice).
 
-- It should have a re-roll functionality to generate a new result.
+- It should have a "roll" button to generate a new result.
 
 - The generated total of the two dice should be displayed each time.
 
@@ -104,6 +104,36 @@ You are encouraged to lay your app out creatively - it is a tool used in a game,
 
 ![Level 4 Example Screenshot](./example-screenshots/level-4.png)
 
+# Level 5 challenge
+
+- Add a "modifier" to each DieRoller. This is a numeric input the user can change, which gets added to the total dice roll.
+
+- Modifier can be positive or negative.
+
+- The total result of any roll should never be less than 1. If the total of a roll once added to its modifier would be less than 1, the result should be 1.
+
+### Example Screenshot
+
+![Level 5 Example Screenshot](./example-screenshots/level-5.png)
+
+# Level 6 challenge
+
+- If a DieRoller result has been adjusted to 1 from lower than 1, make the result look different so the user can see it has been adjusted.
+
+- To do this, use a CSS class, and also suitable explanation in a title/tooltip hover.
+
+### Example Screenshot
+
+![Level 6 Example Screenshot](./example-screenshots/level-6.png)
+
+# Level 7 challenge
+
+- Add error handling so that no change is made to the number of sides, or the modifier, if the user enters whitespace in that field.
+
+- If a field is blank, non-numeric, or otherwise unsuitable, it should revert to a previous value.
+
+- Ensure the user can enter all sensible values, _including_ setting the modifier _back_ to zero.
+
 # You are finished!
 
 Congratulations!
@@ -113,6 +143,8 @@ Now... are your sure your code is as readable as possible?
 # Beyond - ideas for more work
 
 - Easy: display an image in each DieRoller, showing the type of dice in use. [Example](https://www.wizards.com/dnd/dice/dice.htm)
+
+- Intermediate: use a chart library to make a chart of the distribution of results of 1000 simulated rolls.
 
 - Advanced: Add a reset button in the parent.
 
