@@ -13,6 +13,11 @@ This is a beginner challenge.  Level 1 can be completed by students who have com
 - react `props`
 - `array.map` method as used in React JSX
 
+To finish level 4
+
+- event handling (handle a button click)
+- Keeping state with the state hook (`useState`)
+
 ### Example Screenshot
 
 Level 1 challenge screenshot example.
