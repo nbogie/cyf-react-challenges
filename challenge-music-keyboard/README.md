@@ -53,7 +53,7 @@ If you want a harder challenge, don't read the rest of this document but instead
 
 If you want hints, then you will find some below.
 
-# Suggested approach
+# More help: A suggested approach
 
 Here's one approach you might take to building this app.
 
@@ -67,20 +67,32 @@ The tool can take a while to run, so continue with the next task while it's runn
 
 Design your layout on paper. Keep it very simple - this is a React challenge, not a CSS challenge.
 
+If you know the layout of a piano keyboard, I suggest you ignore the black notes for now, to keep things simpler.
+
 Use a layout that will be ok on a phone (but _don't_ spend time on responsive design).
 
-Keep this drawing around for reference later.
+Keep this drawing around for reference later.  You can take a photo of it and keep it in your repo, for example.
 
-## Task: Convert your layout to JSX (HTML)
+## Task: Convert your layout to HTML (e.g. on CodePen)
 
 Convert the drawing to HTML (on codepen or elsewhere) and check the buttons appear correctly.
 _DON'T_ add any CSS or extra markup to make it look good just now. That will only make it more difficult for you to think about your app during development.
 
+At this stage, buttons will not work - that's OK.
+
+At this stage you will have lots of repeated HTML - the same for each button.
+
 ## Task: Convert your HTML to JSX within your React app
 
-Now make a React component to represent your musical keyboard. It should generate the HTML for your buttons. You can do this all first within your `App.js`, or you can build a React Component.
+Now make a React component to represent your musical keyboard. 
 
-## Task: Get the buttons working
+It should generate the HTML for your buttons. 
+
+You can do this all first within your `App.js`, or you can build some other components:
+* perhaps a component for a Keyboard
+* perhaps a component for a single Key, which you then use many times.
+
+## Task: Get the buttons working very simply
 
 - Write code which calls `console.log` when the "musical keyboard" buttons are clicked.
 
