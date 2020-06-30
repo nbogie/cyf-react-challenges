@@ -1,4 +1,4 @@
-# Challenge: "Musical Keyboard" with React and Tones.js
+# Challenge: "Musical Keyboard" with React and Tone.js
 
 ## Challenge Overview
 
@@ -26,24 +26,24 @@ You _will_ need to know...
 
 In addition, you'll learn...
 
-- How to install a library (in this case, tones.js)
-- How to make synthesised sound with the tones.js library. This is one of many ways to make sound in a web app.
+- How to install a library (in this case, tone.js)
+- How to make synthesised sound with the tone.js library. This is one of many ways to make sound in a web app.
 
-# Task: Install the "tones.js" library
+# Task: Install the "tone.js" library
 
 - If you haven't created your app yet, use `create-react-app` to create the skeleton of the app.
 - Check the app works, by running `npm start` from your app's root directory.
 - **Use the following command to install the tones library:
-  `npm install -s tones`**
+  `npm install tone`**
 - Check the app STILL works, with `npm start`
 
 ### Optional - Advanced:
 
 - Look in `package.json`, and compare it with `package.json` for another React app you have. What do you notice?
 
-# Look at the first tones.js example
+# Look at the first tone.js example
 
-- Look at the first example from the [tones.js documentation](https://tonejs.github.io/).
+- Look at the first example from the [tone.js documentation](https://tonejs.github.io/).
 - Load and experiment with [this JSFiddle of that example](https://jsfiddle.net/enz0/f0b2u7ct/)
 - Try to understand the two lines of js code in the example.
 
@@ -98,7 +98,7 @@ You can do this all first within your `App.js`, or you can build some other comp
 
 ## Task: Get the audio working
 
-- Add code which uses tones.js to make sounds when buttons are pressed. Keep it _very_ simple.
+- Add code which uses tone.js to make sounds when buttons are pressed. Keep it _very_ simple.
 
 If you need a hint, [use the first example in the docs, here.](https://tonejs.github.io/)
 
