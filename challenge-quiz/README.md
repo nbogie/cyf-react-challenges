@@ -44,7 +44,7 @@ Completing the challenge is not enough, this should be the cleanest code you hav
 const api = `https://opentdb.com/api.php?amount=1&difficulty=easy&encode=url3986`;
 ```
 
-Fetch data from here 👆👆👆. This is the Open Trivia Database, they have thousands of questions. The documentation for this api is [here](https://opentdb.com/api_config.php).
+Fetch data from here 👆👆👆. This is the Open Trivia Database, they have thousands of questions. The documentation for this api is [here](https://opentdb.com/api_config.php). Fetching from the url above will return one single question (inside an array).
 
 ### Encoding
 
@@ -75,13 +75,13 @@ console.log(shuffled);
 
 ### React Guidelines
 
-You do not necessarily need to use useEffect to complete this challenge, but it may be cleaner to do so.
+You do not necessarily need to use useEffect to complete this challenge but it may be cleaner to do so.
 
 You do not need to use multiple components to complete this challenge but it may be cleaner to do so.
 
 ### Styling & CSS
 
-This challenge is all about clean code so there are no extra points for styling.
+This challenge is all about clean code so there are no extra points for styling. (If you decide to include syling anyway, your CSS must be every bit as beautiful and clean as your javascript code!).
 
 ## Advanced challenge
 
@@ -95,7 +95,7 @@ We have noticed that if a player clicks a correct answer
 two times VERY QUICKLY they can get an extra point.
 
 We have noticed some players using this to cheat, this
-bug must be fixed urgently!!
+bug must be fixed urgently!! CHEATING IS NOT ACCEPTABLE!
 ```
 
 If you can fix the bug they will very pleased. Good luck.
