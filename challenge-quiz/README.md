@@ -44,7 +44,7 @@ Completing the challenge is not enough, this should be the cleanest code you hav
 const api = `https://opentdb.com/api.php?amount=1&difficulty=easy&encode=url3986`;
 ```
 
-Fetch data from here 👆👆👆. This is the Open Trivia Database, they have thousands of questions. The documentation for this api is [here](<[https://opentdb.com/api_config.php](https://opentdb.com/api_config.php)>).
+Fetch data from here 👆👆👆. This is the Open Trivia Database, they have thousands of questions. The documentation for this api is [here](https://opentdb.com/api_config.php](https://opentdb.com/api_config.php).
 
 ### Encoding
 
@@ -54,7 +54,7 @@ When you fetch from the api, you will notice that all strings returned all look 
 ## A%20slug%E2%80%99s%20blood%20is%20green.
 ```
 
-What's going on here? This is a _[url encoded string](<[https://en.wikipedia.org/wiki/Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)>)_. We don't want to display our strings like that to our players. Javascript has a way to convert a string like this to a normal string, using the function below. You might find this useful.
+What's going on here? This is a _[url encoded string](https://en.wikipedia.org/wiki/Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)_. We don't want to display our strings like that to our players. Javascript has a way to convert a string like this to a normal string, using the function below. You might find this useful.
 
 ```js
 const decoded = decodeURIComponent("A%20slug%E2%80%99s%20blood%20is%20green");
