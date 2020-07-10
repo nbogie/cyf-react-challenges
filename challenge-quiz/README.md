@@ -12,9 +12,9 @@ You will require a strong understanding of React+Hooks to complete this challeng
 
 ## The rules
 
-Every player has 3 lives: The logic and rules are simple. When the player clicks 'Start':
+Every player has 3 lives: The logic and rules are simple. When the player loads the app:
 
-1. We fetch a question.
+1. We fetch a question and display it.
 2. The player guesses the answer.
 3. If the player is right, they get a point 🥇. If wrong, they lose a life 🖤.
 4. We fetch a new question and repeat.
