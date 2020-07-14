@@ -25,6 +25,8 @@ When the player makes a wrong guess and has no remaining lives, it's game over a
 
 1. Easy part: Recreate the game demo above.
 
+If you are looking to work out how to approach the problem, do this without checking the "Steps" section below. If you're more trying to practice React implementation than design, feel free to read the Steps section for guidance.
+
 2. Hard part: The goal here is not to add features, the goal is to write the code for the game above in the **cleanest way possible**. That means:
 
 - [ ] No errors or warnings in the console
@@ -99,3 +101,13 @@ bug must be fixed urgently!! CHEATING IS NOT ACCEPTABLE!
 ```
 
 If you can fix the bug they will very pleased. Good luck.
+
+## Steps
+
+Ignore this section if you'd like to work out the steps yourself, these are just a suggestion to help out if you need.
+
+1. Get a single question working, without fetch. We've provided one example question in the question.json file, which you can import. It has the same structure as the API returns. Your app should tell the user "You got the answer right" or "You got the answer wrong".
+2. Implement the "lives" logic. If they get the question wrong, they lose a life. Show them how many lives they have left. Instead of telling the user right/wrong, tell them "You got the answer right" or "You got the answer wrong, you have (number) lives remaining: try again", or "You ran out of lives".
+3. Switch your implementation to fetch questions using the API, rather than from the JSON file.
+4. Implement the "score" logic. Count how many questions they got right, and show them, both as they play, and when they die.
+5. Make sure your code is perfect!
