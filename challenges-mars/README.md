@@ -4,8 +4,7 @@
 
 NASA has sent three rovers to Mars: Spirit, Opportunity, and Curiosity. These rovers move around Mars taking pictures (among other things).
 
-Unfortunately, rovers eventually stop sending back pictures 😥
-Some of the rovers stopped sending back pictures already.
+Unfortunately, rovers eventually stop sending back pictures. Some of the rovers stopped sending back pictures already.😥
 
 ## Difficulty Level
 
