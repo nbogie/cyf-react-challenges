@@ -1,4 +1,4 @@
-# cyf-react-challenges
+# CodeYourFuture React Challenges
 
 A collection of introductory React challenges.
 
