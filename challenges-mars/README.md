@@ -38,8 +38,6 @@ _Note: Earth dates and Mars dates (“sols”) are slightly different. For the U
 
 Make your own React app using `create-react-app`. See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
 
-Copy across the names file (or its contents) from this repo to your app, and then import from that file.
-
 Write a plain HTML prototype (e.g. on codepen). THEN, once you know the HTML you're attempting to create, work on the React version! This is not mandatory but it is recommended.
 
 ## Levels
