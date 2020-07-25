@@ -16,7 +16,8 @@ Level 1 challenge screenshot example.
 
 ## Difficulty Level
 
-This is an intermediate challenge.
+* Level 1 is an intermediate challenge.  
+* Level 2's auto-play functionality is advanced if you have learned React hooks.
 
 # Level 1 Challenge
 
