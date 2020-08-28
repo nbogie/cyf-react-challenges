@@ -2,6 +2,8 @@
 
 ![Example Screenshot from the finished challenge](./example-screenshots/finished.png)
 
+Warning: This challenge is not yet ready for students to work on.
+
 ## Challenge Overview
 
 Make a React app which displays a set of converters to allow the user to carry out some common conversions (miles to kilometres, celsius to fahrenheit, and others).
@@ -63,14 +65,18 @@ More test cases
 | Enter a distance of 010 kilometres | Result is 6.21371 miles (or 6.214) |
 | Attempt to enter a temperature of "junk" | Either: user is not permitted to enter that, or the result is a blanking of the corresponding output field |
 
-Level 3 - Add more converters:
+# Level 3 - Add more converters:
 
 1. Add the following converters: 
 * speed: mph-kmph
 * mass: stone-kg
 * volume: pint-litre
 
-2. Ensure that each converter is styled similarly and that the two rows of inputs are aligned.
+2. Consult the conversions formulae below
+
+3. Ensure the *look* of each converter is consistent with the others and that the two rows of inputs are aligned.
+
+4. Ensure the *behaviour* of each converter is consistent with the others (e.g. with edge cases such as when an input field is emptied.)
 
 # Conversions:
 
