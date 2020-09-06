@@ -3,6 +3,7 @@
 ![Example Screenshot from the finished challenge](./example-screenshots/finished.png)
 
 Warning: This challenge is not yet ready for students to work on.
+There are some unexpected complexities with the right way to do this in React.
 
 ## Challenge Overview
 
