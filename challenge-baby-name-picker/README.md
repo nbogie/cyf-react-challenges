@@ -123,6 +123,7 @@ If there is also a search term in effect, your app should apply any name gender 
 - Add the ability for the user to shuffle the list of names
 - Add the ability for the user to be presented with one or two randomly chosen names.
 - Find an attractive way to differentiate names by gender that doesn't use blue/pink stereotypes.
+- Add some suitably-themed sound effects for the UI.  Josh W Comeau's [useSound hook](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/) can help here, as can [freesound.org](https://freesound.org/)
 
 ## Further resources
 
