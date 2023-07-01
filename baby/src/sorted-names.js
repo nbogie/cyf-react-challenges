@@ -1,15 +1,15 @@
 import jsonData from './data/babyNamesData.json';
 function Sortednames() {
   return (
-    <>
+    <div>
     {jsonData.sort(function (a,b) {
       var alphabeticSort = a.name.toLowerCase().localeCompare(b.name.toLowerCase());
       return (alphabeticSort);
 
     })
-    .map((element) => {if (element.sex === "m") {return (<var><span className='babyNamesBlue' >{element.name}</span></var>);}
-    else {return (<var><span className='babyNamesPink' >{element.name}</span></var>)}})}
-</>
+    .map((element) => {if (element.sex === "m") {return (<var><button className='babyNamesBlue' >{element.name}</button></var>);}
+    else {return (<var><button className='babyNamesPink' >{element.name}</button></var>)}})}
+</div>
     
   )
 }
