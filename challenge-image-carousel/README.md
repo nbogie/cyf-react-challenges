@@ -37,6 +37,8 @@ Make auto-forward and auto-back buttons to _automatically_ move in that directio
 
 Here's a screenshot example from a completed level 2 challenge.
 
+Warning: This quite hard to do using React Hooks. See [here](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) for an explantion!
+
 ![Example Screenshot](./example-screenshots/example-level2.png)
 
 # Try to finish the rest by yourself
